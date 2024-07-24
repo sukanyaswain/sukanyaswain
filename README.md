@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @sukanyaswain
+- 👀 I’m interested in programming, web development
+- 🌱 I’m currently learning MCA
+- 💞️ I’m looking to collaborate on pair programming and opensource
+- 📫 How to reach me (sukanyaswain206)
